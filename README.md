@@ -1,3 +1,5 @@
+# ChannelProcessingSystem
+
 This solution is written in Python version 3.9.7.
 
 The required modules are NumPy, sys, unittest, and PyQt5.
